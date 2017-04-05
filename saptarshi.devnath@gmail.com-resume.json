@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Saptarshi Debnath",
+    "label": "Senior Software Engineer",
+    "picture": "https://avatars1.githubusercontent.com/u/7835253?v=3",
+    "email": "saptarshi.devnath@gmail.com",
+    "phone": "(973) 348-5557",
+    "website": "http://saptarshidebnath.com",
+    "summary": "I am a  Senior Software Engineer [aspiring architect] and is currently working in DevOps and Amazon Web Services. I have strong background as Full Stack web developer. I am interested in the open source world and have released a single java library as my first work.",
+    "location": {
+      "address": "3480 Kilburn Circle",
+      "postalCode": "23233",
+      "city": "Henrico",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "username": "saptarshidebnath",
+      "url": "https://www.linkedin.com/in/saptarshidebnath/"
+    },
+    {
+      "network": "Twitter",
+      "username": "saptarshidev",
+      "url": "http://twitter.com/saptarshidev"
+    }]
+  },
+  "work": [{
+    "company": "Company",
+    "position": "President",
+    "website": "http://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
+}
