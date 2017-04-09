@@ -2,7 +2,7 @@
   "basics": {
     "name": "Saptarshi Debnath",
     "label": "Senior Software Engineer",
-    "picture": "//code.saptarshidebnath.com/images/saptarshidebnath.jpg",
+    "picture": "http://code.saptarshidebnath.com/images/saptarshidebnath.jpg",
     "email": "saptarshi.devnath@gmail.com",
     "phone": "(973) 348-5557",
     "website": "http://saptarshidebnath.com",
@@ -31,7 +31,8 @@
     }
   ]
   },
-  "work": [{
+  "work": [
+    {
     "company": "Wipro Technology",
     "position": "Senior Software Engineer",
     "website": "http://www.wipro.com",
@@ -45,14 +46,14 @@
       "I have worked on website which would trigger shell sripts based jobs at remote unix box. The whole application was written in boot strap, angular js, html css3, mongodb and java 1.7 ",
       "I built devops pipeline using jenkins 1.XXX, shell scripts.",
       "I have worked extensively to create custom pipeline components using JAVA 1.8"
-    ]
-  },
-  {
+      ]
+    },
+    {
     "company": "Wipro Technology",
     "position": "Senior Software Engineer",
     "website": "http://www.wipro.com",
     "startDate": "2011-09-01",
-    "endDate": "2015-09-31",
+    "endDate": "2015-09-30",
     "summary": "I was working as a Technical lead for the client Novartis Pharma. I was mostly working as a tech lead to maintain and develop lead generating marketing websites using Java/J2EE and a front end stack.",
     "highlights": [
       "Authored private jQuery plugins to be utilized by the websites.",
@@ -62,28 +63,27 @@
       "Wrote a ton of apache redirect when modules inside the websites were being deleted or moved around",
       "Worked extensively on HTML5, AJAX and CSS3.0",
       "Was awarded Feather in my cap from inside Wipro."
-    ]
-  },
+      ]
+    },
   {
     "company": "Wipro Technology",
     "position": "Project Engineer",
     "website": "http://www.wipro.com",
-    "startDate": "2009-09-01",
-    "endDate": "2011-09-31",
+    "startDate": "2009-09-22",
+    "endDate": "2011-09-30",
     "summary": "I was working a Project engineer or rookie for the client Bank of New York Melon. I was working on Mainframe Focus to generate hughly customized reports.",
     "highlights": [
       "Worked on a niche technology on which only 2 Indian teams were working.",
       "Recieved multiple accolades from client and my project lead for being an expert in Mainframe Focus on a short time frame.",
       "At one point of time I was simultaneously working on 2 teams using cystal report and mainframe focus to generate reports"
     ]
-  },
-  {
+  },{
     "company": "Objectsol Technology",
     "position": "Associate Trainee Engineer",
     "website": "http://www.objectsol.in/",
     "startDate": "2009-03-01",
     "endDate": "2009-07-31",
-    "summary": "I was working as a iphone OpenGl game developer for Ellite system.",
+    "summary": "I was working as a iphone OpenGl game developer for client Ellite system.",
     "highlights": [
       "I  have worked OpenGL ES1.1 based iPhone game for Crazee Cube (digital version of Bedlam Cube http://en.wikipedia.org/wiki/Bedlam_cube) while working for Objectsol Technologies.",
       "The youtube link for its add is https://www.youtube.com/watch?v=XifXyieukqw",
@@ -91,54 +91,103 @@
       "The game was reviewed by Game Industry http://www.gamesindustry.biz/articles/crazee-cube-iphone-version-of-the-dragons--den-contender--with-a-potential-world-record-to-claim"
     ]
   }
-],
+  ],
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
+    "institution": "West Bengal University Of Technology",
+    "area": "Computer Science and Engineering",
+    "studyType": "B-Tech",
+    "startDate": "2004-04-01",
+    "endDate": "2008-03-31",
+    "gpa": "8.08 / 10",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Software Engineering",
+      "Introduction to database",
+      "Datastructure and Algorithym",
+      "Computer Organisation",
+      "Computer Architecture"
+    ]
+  },{
+    "institution": "Andrews High School",
+    "area": "Higher Secondry [10 + 2]",
+    "studyType": "Science",
+    "startDate": "2002-04-01",
+    "endDate": "2004-03-31",
+    "gpa": "74.5 %",
+    "courses": [
+      "Physics",
+      "Chemistry",
+      "Mathametics"
+    ]
+  },{
+    "institution": "Nava Nalanda High School",
+    "area": "Madhyamik [10]",
+    "studyType": "General",
+    "startDate": "1992-04-01",
+    "endDate": "2002-03-31",
+    "gpa": "78.5 %",
+    "courses": [
+      "Litterature",
+      "Histroy",
+      "Geography",
+      "Science",
+      "Mathametics"
     ]
   }],
   "awards": [{
-    "title": "Award",
+    "title": "Feather in my cap",
     "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
+    "awarder": "Wipro Technology",
+    "summary": "I was awarded feather in my cap inside wipro for overall performance while working under Novartis"
   }],
   "skills": [{
     "name": "Frontend Web Development",
     "level": "Master",
     "keywords": [
-      "HTML",
-      "HTML5",
-      "CSS",
-      "CSS3",
+      "HTML(5)",
+      "CSS(CSS3)",
       "Javascript",
+      "Angular 2",
+      "Bootstrap",
+      "SASS",
+      "SASS-Compass",
       "jQuery",
-      "angular",
-      "bootstrap"
+      "mootools",
+      "JSP",
+      "AJAX"
     ]
   },
-{
-    "name": "Web Development",
+  {
+    "name": "Backend Development",
     "level": "Master",
     "keywords": [
-      "Java 1.8",
-      "Spring",
-      "Struts",
-      "Servlet",
-      "JSP"
+      "JAVA 1.8",
+      "Servlets",
+      "postgres sql",
+      "Spring 4.XXX",
+      "Struts 1.XXX",
+      "REST-API",
+      "Node js",
+      "SQL",
+      "MySql",
+      "Postgress",
+      "MongoDB",
+      "Oracle DB",
+      "MVC"
+    ]
+  },
+  {
+    "name": "Devops",
+    "level": "intermediate",
+    "keywords": [
+      "AWS cli",
+      "AWS stack",
+      "EC2",
+      "S3",
+      "jenkins 2.XXX",
+      "Shell scripting",
+      "Python",
+      "Git",
+      "Maven"
     ]
   }
 ],
@@ -147,11 +196,10 @@
     "level": "Native speaker"
   }],
   "interests": [{
-    "name": "Photography",
+    "name": "Wildlife",
     "keywords": [
-      "Nikon D7200",
-      "Macro",
-      "HDR"
+      "Ferrets",
+      "Unicorns"
     ]
   }],
   "references": [{

@@ -4,11 +4,39 @@
   "description": "My resume application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf ./out && hackmyresume BUILD ./back.json TO ./out/saptarshi-debnath-resume.all -t modern"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "hackmyresume": "^1.8.0"
+    "hackmyresume": "^1.8.0",
+    "jsonresume-theme-boilerplate": "^0.1.2",
+    "jsonresume-theme-briefstrap": "^1.0.0",
+    "jsonresume-theme-class": "^0.1.2",
+    "jsonresume-theme-classy": "^1.0.9",
+    "jsonresume-theme-compact": "^1.0.4",
+    "jsonresume-theme-crisp": "^0.2.12",
+    "jsonresume-theme-crispy-potato": "^0.1.4",
+    "jsonresume-theme-elegant": "^1.10.2",
+    "jsonresume-theme-eloquent": "^3.0.2",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-flat-davidgwking": "^0.3.7",
+    "jsonresume-theme-futura": "^0.1.4",
+    "jsonresume-theme-genocation": "^0.1.0",
+    "jsonresume-theme-kendall": "^0.1.17",
+    "jsonresume-theme-kendall-beardtree": "0.0.1",
+    "jsonresume-theme-markdown": "^1.0.2",
+    "jsonresume-theme-modern-extended": "^0.1.1",
+    "jsonresume-theme-nominaltech": "0.0.4",
+    "jsonresume-theme-paper": "^0.3.3",
+    "jsonresume-theme-short": "^0.1.7",
+    "jsonresume-theme-simplistic": "0.0.1",
+    "jsonresume-theme-slick": "^0.1.16",
+    "jsonresume-theme-smart": "^1.0.2",
+    "jsonresume-theme-stackoverflow": "^1.0.4",
+    "jsonresume-theme-stackoverflow2": "^1.0.6",
+    "jsonresume-theme-timeline-fixed": "0.0.9",
+    "phantomjs-prebuilt": "^2.1.14"
   }
 }
