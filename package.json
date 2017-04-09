@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf ./out && hackmyresume BUILD ./back.json TO ./out/saptarshi-debnath-resume.all -t modern"
+    "build": "rm -rf ./out && hackmyresume BUILD ./saptarshi-debnath-resume.json TO ./out/saptarshi-debnath-resume.all -t node_modules/jsonresume-theme-kendall"
   },
   "author": "",
   "license": "MIT",
